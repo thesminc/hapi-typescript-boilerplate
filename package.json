@@ -1,0 +1,32 @@
+{
+  "name": "hapi-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "build:watch": "npm run build -- --watch",
+    "start": "node dist/index.js",
+    "start:watch": "nodemon dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesminc/hapi-typescript-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesminc/hapi-typescript-boilerplate/issues"
+  },
+  "homepage": "https://github.com/thesminc/hapi-typescript-boilerplate#readme",
+  "dependencies": {
+    "hapi": "^18.1.0"
+  },
+  "devDependencies": {
+    "@types/hapi": "^18.0.1",
+    "@types/node": "^11.9.5",
+    "nodemon": "^1.18.10",
+    "typescript": "^3.3.3333"
+  }
+}
