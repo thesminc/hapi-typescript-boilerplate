@@ -1,5 +1,5 @@
 # Node Hapi TypeScript Boilerplate
-A boilerplate that I clone for new projects.
+A simple basic boilerplate that I clone for new projects.
 
 # Dependencies
 [Node](https://nodejs.org)
@@ -13,5 +13,5 @@ A boilerplate that I clone for new projects.
 
 # Running
 1. npm run build or npm run build:watch
-// Builds/Compiles to ./dist folder
+* Builds/Compiles to ./dist folder
 2. npm run start or npm run start:watch
