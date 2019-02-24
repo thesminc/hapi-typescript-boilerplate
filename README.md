@@ -2,10 +2,10 @@
 A simple basic boilerplate that I clone for new projects.
 
 # Dependencies
-[Node](https://nodejs.org)
-[Hapi](http://hapijs.com)
-[TypeScript](https://www.typescriptlang.org/)
-[Nodeman](https://nodemon.io/)
+- [Node](https://nodejs.org)
+- [Hapi](http://hapijs.com)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Nodeman](https://nodemon.io/)
 
 # Installation
 1. Clone
